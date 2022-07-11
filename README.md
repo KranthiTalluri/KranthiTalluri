@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Kranthi
+👋 Hi, I’m Kranthi
+---------------------------------
 - 👀 I’m interested in real time projects using Computer vision and Deep learning
 - 🌱 I recently completed my Masters and working as a Research assistant
 
